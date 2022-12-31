@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Agustin 👋
+- 🧑‍🎓 I’m a Systems Engineering student at the University of Arizona
+- 🚀 I’m currently working on research at the UA Space Systems Engineering Laboratory (SSEL)
+- 🌱 I’m currently learning Guidance, Navigation, and Control (GN&C) and Meta-Reinforcement Learning (Meta-RL) 
+- ❇️ Interests: space, AI, webdev, crypto
+- 📫 How to reach me: aespinoza2@arizona.edu
 
 <!--
 **aespinoza2/aespinoza2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
