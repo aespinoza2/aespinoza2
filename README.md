@@ -5,7 +5,7 @@
 - ❇️ Interests: space, AI, webdev, crypto
 - 📫 How to reach me: aespinoza2@arizona.edu
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aespinoza2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aespinoza2&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aespinoza2/aespinoza2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
