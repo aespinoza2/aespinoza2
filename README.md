@@ -1,8 +1,9 @@
-### Hi, I'm Agustin 👋
+## Hi, I'm Agustin 👋
 - I’m a Systems Engineering student at the University of Arizona
 - I’m currently an undergraduate research assistant at the UA Space Systems Engineering Laboratory (SSEL)
 - I’m currently learning guidance, navigation, and control (GN&C) and meta-reinforcement learning (meta-RL)
 - Interests: space, AI, webdev, crypto 👨‍💻
+### How To Reach Me:
 - 📧 Email (School): aespinoza2@arizona.edu 
 - 📧 Email (Personal): espinozaagustin42@gmail.com 
 
