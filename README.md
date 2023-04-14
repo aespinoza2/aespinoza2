@@ -7,6 +7,6 @@
 - 📧 Email (School): aespinoza2@arizona.edu 
 - 📧 Email (Personal): espinozaagustin42@gmail.com 
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aespinoza2&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
--->
+
