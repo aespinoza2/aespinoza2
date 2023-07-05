@@ -1,6 +1,6 @@
 # Hi, I'm Agustin 👋
 - Systems engineering student at the University of Arizona
-- Undergraduate research assistant at the UA SpaceTREx and ASTEROIDS Laboratory
+- Undergraduate research assistant at the UA SpaceTREx Laboratory
 - Currently researching electric/steam propulsion for spacecraft systems 
 - Interests: space, defense, AI, web dev, cybersecurity 👨‍💻
 ### How To Reach Me:
